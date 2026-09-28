@@ -1,0 +1,144 @@
+{
+    "produkter": [
+        {
+            "namn": "AMD Ryzen 7 9800X3D",
+            "beskrivning": "8-kärnig processor för spel och prestanda, med 3D V-Cache och 5,2 GHz boostfrekvens.",
+            "bild": "./img/AMDRyzen.jpeg",
+            "typ": "datorkomponent",
+            "pris": 5299
+        },
+        {
+            "namn": "Intel Core Ultra 7 265K",
+            "beskrivning": "20-kärnig processor med integrerad NPU för AI-uppgifter och låg effektförbrukning.",
+            "bild": "./img/IntelCore.jpeg",
+            "typ": "datorkomponent",
+            "pris": 4290
+        },
+        {
+            "namn": "ASUS ROG Strix B650E-F Gaming",
+            "beskrivning": "AM5-moderkort med PCIe 5.0, DDR5-stöd och kraftfull strömförsörjning för entusiaster.",
+            "bild": "./img/ASUSROG.jpeg",
+            "typ": "datorkomponent",
+            "pris": 2795
+        },
+        {
+            "namn": "Corsair Vengeance DDR5 32 GB (2×16 GB) 6000 MHz",
+            "beskrivning": "Snabb DDR5-minneskit med EXPO-profil och låg profilhöjd för kompakta byggen.",
+            "bild": "./img/CorsairVengeance.jpeg",
+            "typ": "datorkomponent",
+            "pris": 1290
+        },
+        {
+            "namn": "Samsung 990 Pro 2 TB NVMe SSD",
+            "beskrivning": "PCIe 4.0-systemdisk med upp till 7450 MB/s läsning och hög uthållighet.",
+            "bild": "./img/Samsung990.jpeg",
+            "typ": "datorkomponent",
+            "pris": 1890
+        },
+        {
+            "namn": "NVIDIA GeForce RTX 5070 Ti",
+            "beskrivning": "Grafikkort med 16 GB GDDR7 och ray tracing för höga inställningar i 1440p och 4K.",
+            "bild": "./img/GeForce5070.jpeg",
+            "typ": "datorkomponent",
+            "pris": 9495
+        },
+        {
+            "namn": "be quiet! Pure Power 12 M 850 W",
+            "beskrivning": "Modulärt nätaggregat med 80 PLUS Gold-certifiering och tyst 120 mm-fläkt.",
+            "bild": "./img/bequiet.jpeg",
+            "typ": "datorkomponent",
+            "pris": 1395
+        },
+        {
+            "namn": "Fractal Design North",
+            "beskrivning": "Midi-tower-chassi med träfront, god luftgenomströmning och plats för långa grafikkort.",
+            "bild": "./img/FractalDesign.jpeg",
+            "typ": "datorkomponent",
+            "pris": 1590
+        },
+        {
+            "namn": "Noctua NH-D15 G2",
+            "beskrivning": "Dubbeltornig luftkylare med två 140 mm-fläktar och mycket låg ljudnivå.",
+            "bild": "./img/Noctua.jpeg",
+            "typ": "datorkomponent",
+            "pris": 1295
+        },
+        {
+            "namn": "Arctic P12 PWM PST (5-pack)",
+            "beskrivning": "Prisvärda 120 mm-fläktar med tryckoptimerade blad och möjlighet till kedjekoppling.",
+            "bild": "./img/Arctic.jpeg",
+            "typ": "datorkomponent",
+            "pris": 349
+        },
+        {
+            "namn": "Logitech MX Master 3S",
+            "beskrivning": "Trådlös ergonomisk mus med tysta klick, 8K-sensor och anslutning till tre enheter.",
+            "bild": "./img/LogitechMX.jpeg",
+            "typ": "datortillbehör",
+            "pris": 1099
+        },
+        {
+            "namn": "Keychron K8 Pro",
+            "beskrivning": "Trådlöst mekaniskt tangentbord i TKL-format med hot-swap-switchar och bakgrundsbelysning.",
+            "bild": "./img/Keychron.jpeg",
+            "typ": "datortillbehör",
+            "pris": 1290
+        },
+        {
+            "namn": "Dell UltraSharp U2723QE 27",
+            "beskrivning": "27-tums 4K-skärm med IPS Black-panel, USB-C-hubb och 90 W laddning.",
+            "bild": "./img/DellUltraSharp.jpeg",
+            "typ": "datortillbehör",
+            "pris": 5490
+        },
+        {
+            "namn": "HyperX Cloud III",
+            "beskrivning": "Sluten gamingheadset med 53 mm-element, avtagbar mikrofon och komfort för långa pass.",
+            "bild": "./img/HyperX.jpeg",
+            "typ": "datortillbehör",
+            "pris": 1050
+        },
+        {
+            "namn": "Logitech C920 HD Pro",
+            "beskrivning": "Webbkamera i 1080p/30 fps med autofokus och stereomikrofon för möten och streaming.",
+            "bild": "./img/LogitechC920.jpeg",
+            "typ": "datortillbehör",
+            "pris": 799
+        },
+        {
+            "namn": "Elgato Stream Deck MK.2",
+            "beskrivning": "Kontrollpanel med 15 anpassningsbara LCD-knappar för streaming, genvägar och makron.",
+            "bild": "./img/Elgato.jpeg",
+            "typ": "datortillbehör",
+            "pris": 1595
+        },
+        {
+            "namn": "Samsung T7 Shield 2 TB",
+            "beskrivning": "Bärbar extern SSD med stöttålig design, USB-C och upp till 1050 MB/s.",
+            "bild": "./img/SamsungT7.jpeg",
+            "typ": "datortillbehör",
+            "pris": 1790
+        },
+        {
+            "namn": "Anker 575 USB-C-hubb",
+            "beskrivning": "Dockningsstation med 13 portar, dubbla skärmutgångar och 85 W Power Delivery.",
+            "bild": "./img/Anker575.jpg",
+            "typ": "datortillbehör",
+            "pris": 1149
+        },
+        {
+            "namn": "SteelSeries QcK Heavy XXL",
+            "beskrivning": "Extra stor musmatta i tätt vävd textil med halksäker gummibas.",
+            "bild": "./img/SteelSeries.jpeg",
+            "typ": "datortillbehör",
+            "pris": 449
+        },
+        {
+            "namn": "APC Back-UPS BX1600MI",
+            "beskrivning": "UPS med 1600 VA som skyddar datorn mot strömavbrott och spänningsspikar.",
+            "bild": "./img/APC.jpeg",
+            "typ": "datortillbehör",
+            "pris": 2190
+        }
+    ]
+}

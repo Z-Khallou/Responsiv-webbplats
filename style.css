@@ -189,3 +189,13 @@ img {
         margin: 2rem auto;
     }
 }
+
+/* Fix för att hålla ihop priset på artikelsidan användning av JSON-filen med hjälp av JavaScript (fetch) */
+#produkt-lista article .pris {
+    white-space: nowrap;
+    /* Detta är magin som förbjuder texten att radbrytas */
+    min-width: 120px;
+    /* Garanterar att blocket alltid är tillräckligt brett */
+    text-align: right;
+    /* Frivilligt: snyggt att ha priset konsekvent högerjusterat */
+}
